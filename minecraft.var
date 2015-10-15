@@ -1,0 +1,7 @@
+SESSION=minecraft
+#Replace with names of each minecraft folder that contains server executable
+server=(folder1 folder2 folder3) 
+#Replace with root minecraft directory
+ROOT_MC_DIR=/home/minecraft
+#Replace with the name used for each server executable
+MC_EXEC=ServerStart.sh 
